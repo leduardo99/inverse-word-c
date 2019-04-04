@@ -74,5 +74,6 @@ dkms.conf
 
 *.layout
 *.win
+*.dev
 
 # End of https://www.gitignore.io/api/c,c++
